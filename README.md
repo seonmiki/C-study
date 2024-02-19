@@ -1,1 +1,1 @@
-# C-study
+# CPP study
